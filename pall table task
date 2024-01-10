@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <style>
+           table,td,tr,th{
+            border: 2px solid black;
+            border-collapse:collapse ;
+           } 
+        </style>
+
+    </head>
+    <body>
+        <h1>Normal padding</h1>
+        <table>
+            <tr>
+                <th>Name</th>
+                <th>Job</th>
+                <th>Working experience</th>
+            </tr>
+            <tr>
+                <td> john</td>
+                <td>Software Engineer</td>
+                <td>5 years</td>
+
+            </tr>
+            <tr>
+                <td>Ale</td>
+                <td>Senior web Developer</td>
+                <td>2 Years</td>
+
+            </tr>
+            <tr>
+                <td>Jack</td>
+                <td>junior Tech Writter</td>
+                <td>6 Months</td>
+            </tr>
+        </table>
+    </body>
+</html>
